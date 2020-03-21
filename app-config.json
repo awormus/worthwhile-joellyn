@@ -1,0 +1,8 @@
+{
+  "tokenScopes": [
+    "openid",
+    "email",
+    "profile"
+  ],
+  "apiUri": ""
+}

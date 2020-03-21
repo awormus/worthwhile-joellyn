@@ -1,0 +1,14 @@
+{
+  "region": "eu-east-2",
+  "userPool": "us-east-2_Hk9d6nif3",
+  "userPoolBaseUri": "https://lood800-test.auth.us-east-2.amazoncognito.com",
+  "clientId": "39bogbn42cl69kce6r7gor6b2e",
+  "callbackUri": "http://localhost:3000/callback",
+  "signoutUri": "http://localhost:3000/",
+  "tokenScopes": [
+    "openid",
+    "email",
+    "profile"
+  ],
+  "apiUri": ""
+}
